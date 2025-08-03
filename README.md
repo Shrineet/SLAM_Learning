@@ -10,8 +10,9 @@ This is my learning repository for understanding Simultaneous Localization and M
 - Nav2 stack exploration
 - TF2 and coordinate frames
 
+
 ## 📂 Folder Structure
-- `docs/`: Theory notes and screenshots
+- `docs/`: Theory notes and screenshots  
 - `src/`: Technical breakdowns and code notes
 - `docker/`: Docker setup and environment instructions
 
