@@ -49,3 +49,15 @@ qtcreator-*
 
 # Catkin custom files
 CATKIN_IGNORE
+
+
+
+*.log
+*.bag
+__pycache__/
+*.pyc
+*.rviz
+*.swp
+install/
+build/
+
