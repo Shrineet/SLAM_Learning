@@ -1,7 +1,9 @@
 # 🧭 NAV2 Startup Guide – TurtleBot3
 
-## Terminal 1 – Start Gazebo world
 ```bash
+
+
+## Terminal 1 – Start Gazebo world
 source /ws_slam/install/setup.bash
 export TURTLEBOT3_MODEL=burger
 ros2 launch turtlebot3_gazebo turtlebot3_world.launch.py
